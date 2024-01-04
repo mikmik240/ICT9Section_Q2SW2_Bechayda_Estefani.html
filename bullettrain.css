@@ -1,0 +1,52 @@
+body {font-family: Arial, sans-serif; margin: 50px; background-color: lightyellow;}
+
+#my-element {
+  background-image: url("KennyRogerBG.jpg");
+}
+
+#TITLE {background-color: darkred;
+		color: white; padding: 20px; width: 20%; 
+
+		font-weight: bolder; 
+		font-size: 15spx; 
+		color: blanchedalmond;
+
+
+
+		border: dashed 8px;
+		border-color: blanchedalmond;
+	
+		border-radius: 10px;
+		text align: center;
+		width:95%;
+
+		}
+
+#TABLE {background-color: whitesmoke;
+
+		color:darkred;}
+
+button {
+    background-color: #007bff;
+    color: lightgoldenrodyellow;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+td {
+  text-align: center;
+}
+
+th {color: darkslategray; font-weight: bolder;}
+
+tr.row1 {background-color: lightgray;}
+
+tr.row2 {background-color: lightgray;}
+
+tr.image1 {background-color: lightgoldenrodyellow;}
+
+tr.image2 {background-color: lightgoldenrodyellow;}
+
+
+<!-- Property of Estefani Ann Bechayda -->
